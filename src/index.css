@@ -19,3 +19,7 @@ body {
 .btn-sec {
   @apply border-solid border-2 py-2 rounded-md text-xl;
 }
+
+.card {
+  @apply overflow-hidden shadow-md relative;
+}

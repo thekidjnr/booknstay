@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 
 const Hero = () => {
   return (
-    <div className="bg-heroImage bg-cover h-screen">
+    <div className="bg-heroImage bg-cover bg-right h-screen ">
       <div className="w-11/12 m-auto">
         <nav className="pt-5">
           <div className="flex justify-between items-center m-auto text-white">
