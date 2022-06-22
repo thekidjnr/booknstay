@@ -9,6 +9,7 @@ module.exports = {
       },
       colors: {
         primary: "#51281E",
+        primarylight: "#C6B9B5",
         secondary: "#002A34",
         white: "#FFFFFF",
         black: "#000000",
@@ -17,6 +18,7 @@ module.exports = {
         body: ["Poppins", "Open Sans", "Roboto"],
         logo: ["Roboto"],
         header: ["Open Sans"],
+        roboto: ["Roboto"],
       },
       backgroundImage: {
         heroImage: "url('../src/photos/home/herophoto.png')",

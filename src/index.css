@@ -13,11 +13,11 @@ body {
 
 /* CUSTOM TAILWIND CLASSES */
 .btn-main {
-  @apply py-2 text-xl rounded-md;
+  @apply py-1 text-lg rounded-md;
 }
 
 .btn-sec {
-  @apply border-solid border-2 py-2 rounded-md text-xl;
+  @apply border-solid border-2 py-1 rounded-md text-lg;
 }
 
 .card {

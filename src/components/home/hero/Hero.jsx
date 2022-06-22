@@ -28,8 +28,8 @@ const Hero = () => {
               </li>
             </ul>
             <div className="flex gap-5">
-              <button className="btn-sec border-primary w-28">Login</button>
-              <button className="btn-main bg-primary w-28">Register</button>
+              <button className="btn-sec border-primary w-24">Login</button>
+              <button className="btn-main bg-primary w-24">Register</button>
             </div>
           </div>
         </nav>

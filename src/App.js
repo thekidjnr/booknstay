@@ -1,5 +1,6 @@
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import Home from "./pages/home/Home";
+import HotelLists from "./pages/hotelLists/HotelLists";
 
 function App() {
   return (
@@ -7,6 +8,7 @@ function App() {
       <Router>
         <Routes>
           <Route path="/" exact element={<Home />}></Route>
+          <Route path="/hotels" exact element={<HotelLists />}></Route>
         </Routes>
       </Router>
     </div>
